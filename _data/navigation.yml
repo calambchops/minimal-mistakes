@@ -24,7 +24,7 @@ main:
 #  - title: "Another Title"
 #    text: "More text here."
 
-sample:
+cookies:
   - title: "Parent Page A"
     children:
       - title: "Child Page A1"
